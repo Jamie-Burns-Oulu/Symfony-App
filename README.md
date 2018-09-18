@@ -1,1 +1,2 @@
-Symfony To Do App
+After clone you need to execute composer install
+
